@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lynq/static/css/main.55420d70.chunk.css",
+    "main.js": "/lynq/static/js/main.eeaa96ba.chunk.js",
+    "main.js.map": "/lynq/static/js/main.eeaa96ba.chunk.js.map",
+    "runtime-main.js": "/lynq/static/js/runtime-main.a7e53293.js",
+    "runtime-main.js.map": "/lynq/static/js/runtime-main.a7e53293.js.map",
+    "static/js/2.8987d177.chunk.js": "/lynq/static/js/2.8987d177.chunk.js",
+    "static/js/2.8987d177.chunk.js.map": "/lynq/static/js/2.8987d177.chunk.js.map",
+    "index.html": "/lynq/index.html",
+    "precache-manifest.ed956b34089a09163745e5e52b6fdebd.js": "/lynq/precache-manifest.ed956b34089a09163745e5e52b6fdebd.js",
+    "service-worker.js": "/lynq/service-worker.js",
+    "static/css/main.55420d70.chunk.css.map": "/lynq/static/css/main.55420d70.chunk.css.map",
+    "static/js/2.8987d177.chunk.js.LICENSE": "/lynq/static/js/2.8987d177.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7e53293.js",
+    "static/js/2.8987d177.chunk.js",
+    "static/css/main.55420d70.chunk.css",
+    "static/js/main.eeaa96ba.chunk.js"
+  ]
+}
