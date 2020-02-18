@@ -1,0 +1,12 @@
+html {
+    /*its used to prevent chrome night-mode-pro-style plugin make html color to #fff*/
+    height: 100%;
+    background: #fff !important;
+
+}
+body{
+    background: #fff !important;
+}
+:focus {
+    outline: initial
+}
